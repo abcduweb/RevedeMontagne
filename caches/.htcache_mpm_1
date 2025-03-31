@@ -1,0 +1,13 @@
+<?php $popup_script = '';$popup = '';$connexion = '';$inscription = '';$moncompte = '<li>
+						<a href="{ROOT}liste-mp.html"><img src="{ROOT}templates/images/1/{img_nb_mp}.gif" alt="{img_nb_mp}"/> {nb_mp} message</a>
+					</li>
+					<li>
+						<a href="{ROOT}deconnexion-1.html"><img src="http://127.0.0.1/revedemontagne/templates/images/1/quitter.png" alt="Quitter" />The randonneur</a>
+						<ul>
+							<li><a href="{ROOT}contributions.html">Mes contributions</a></li>
+							<li><a href="{ROOT}mes_options.html">Mes options</a></li>
+							<li><a href="{ROOT}photos.html" onclick="window.open(\'{ROOT}photos.html\',\'\',\'scrollbars=yes,width=500,height=350\');return false">Mes photos</a></li>
+							<li><a href="{ROOT}deconnexion-1.html">Quitter</a></li>
+						</ul>
+						
+					</li>';$root = '../';$img_mp = 'no_message';$nb_mp = 0;?>

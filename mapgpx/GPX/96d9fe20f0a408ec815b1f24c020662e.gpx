@@ -1,0 +1,1777 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="CompeGPS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.compegps.com">
+      <text>CompeGPS TEAM, SL</text>
+    </link>
+    <time>2011-11-22T06:39:15Z</time>
+    <bounds maxlat="45.041461" maxlon="4.828792" minlat="45.009587" minlon="4.790986"/>
+  </metadata>
+  <rte>
+    <name>trajet_mauves</name>
+    <rtept lat="45.041129" lon="4.828526">
+      <ele>-9999.0</ele>
+      <name>r002</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:25:19Z</time>
+    </rtept>
+    <rtept lat="45.041061" lon="4.828230">
+      <ele>-9999.0</ele>
+      <name>r003</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:25:20Z</time>
+    </rtept>
+    <rtept lat="45.039917" lon="4.827613">
+      <ele>-9999.0</ele>
+      <name>r004</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:25:24Z</time>
+    </rtept>
+    <rtept lat="45.039201" lon="4.827100">
+      <ele>-9999.0</ele>
+      <name>r005</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:25:28Z</time>
+    </rtept>
+    <rtept lat="45.038672" lon="4.826867">
+      <ele>-9999.0</ele>
+      <name>r006</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:25:31Z</time>
+    </rtept>
+    <rtept lat="45.038833" lon="4.826330">
+      <ele>-9999.0</ele>
+      <name>r007</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:25:33Z</time>
+    </rtept>
+    <rtept lat="45.038655" lon="4.826235">
+      <ele>-9999.0</ele>
+      <name>r008</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:25:38Z</time>
+    </rtept>
+    <rtept lat="45.038712" lon="4.826106">
+      <ele>-9999.0</ele>
+      <name>r009</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:25:39Z</time>
+    </rtept>
+    <rtept lat="45.038868" lon="4.826085">
+      <ele>-9999.0</ele>
+      <name>r010</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:25:41Z</time>
+    </rtept>
+    <rtept lat="45.038899" lon="4.825939">
+      <ele>-9999.0</ele>
+      <name>r011</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:25:43Z</time>
+    </rtept>
+    <rtept lat="45.038812" lon="4.825804">
+      <ele>-9999.0</ele>
+      <name>r012</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:25:44Z</time>
+    </rtept>
+    <rtept lat="45.038668" lon="4.825825">
+      <ele>-9999.0</ele>
+      <name>r013</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:25:45Z</time>
+    </rtept>
+    <rtept lat="45.039114" lon="4.825177">
+      <ele>0.0</ele>
+      <name>r014</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:25:58Z</time>
+    </rtept>
+    <rtept lat="45.039329" lon="4.825422">
+      <ele>-9999.0</ele>
+      <name>r015</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:26:22Z</time>
+    </rtept>
+    <rtept lat="45.039760" lon="4.825730">
+      <ele>-9999.0</ele>
+      <name>r016</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:26:28Z</time>
+    </rtept>
+    <rtept lat="45.040506" lon="4.825929">
+      <ele>-9999.0</ele>
+      <name>r017</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:26:30Z</time>
+    </rtept>
+    <rtept lat="45.040875" lon="4.825961">
+      <ele>-9999.0</ele>
+      <name>r018</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:26:38Z</time>
+    </rtept>
+    <rtept lat="45.041328" lon="4.826165">
+      <ele>-9999.0</ele>
+      <name>r019</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:26:39Z</time>
+    </rtept>
+    <rtept lat="45.041461" lon="4.825632">
+      <ele>-9999.0</ele>
+      <name>r020</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:26:41Z</time>
+    </rtept>
+    <rtept lat="45.041323" lon="4.824296">
+      <ele>-9999.0</ele>
+      <name>r021</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:26:43Z</time>
+    </rtept>
+    <rtept lat="45.041362" lon="4.823798">
+      <ele>-9999.0</ele>
+      <name>r022</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:26:45Z</time>
+    </rtept>
+    <rtept lat="45.041095" lon="4.822807">
+      <ele>-9999.0</ele>
+      <name>r023</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:26:53Z</time>
+    </rtept>
+    <rtept lat="45.040376" lon="4.823243">
+      <ele>-9999.0</ele>
+      <name>r024</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:26:55Z</time>
+    </rtept>
+    <rtept lat="45.040126" lon="4.823336">
+      <ele>-9999.0</ele>
+      <name>r025</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:03Z</time>
+    </rtept>
+    <rtept lat="45.039755" lon="4.823073">
+      <ele>-9999.0</ele>
+      <name>r026</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:05Z</time>
+    </rtept>
+    <rtept lat="45.038273" lon="4.823176">
+      <ele>-9999.0</ele>
+      <name>r027</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:07Z</time>
+    </rtept>
+    <rtept lat="45.037736" lon="4.822983">
+      <ele>-9999.0</ele>
+      <name>r028</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:09Z</time>
+    </rtept>
+    <rtept lat="45.037456" lon="4.823140">
+      <ele>-9999.0</ele>
+      <name>r029</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:15Z</time>
+    </rtept>
+    <rtept lat="45.036755" lon="4.823264">
+      <ele>-9999.0</ele>
+      <name>r030</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:17Z</time>
+    </rtept>
+    <rtept lat="45.036310" lon="4.823036">
+      <ele>-9999.0</ele>
+      <name>r031</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:19Z</time>
+    </rtept>
+    <rtept lat="45.035729" lon="4.823140">
+      <ele>-9999.0</ele>
+      <name>r032</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:20Z</time>
+    </rtept>
+    <rtept lat="45.035317" lon="4.823472">
+      <ele>-9999.0</ele>
+      <name>r033</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:23Z</time>
+    </rtept>
+    <rtept lat="45.034846" lon="4.823567">
+      <ele>-9999.0</ele>
+      <name>r034</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:24Z</time>
+    </rtept>
+    <rtept lat="45.034312" lon="4.823219">
+      <ele>-9999.0</ele>
+      <name>r035</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:26Z</time>
+    </rtept>
+    <rtept lat="45.034030" lon="4.822676">
+      <ele>-9999.0</ele>
+      <name>r036</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:28Z</time>
+    </rtept>
+    <rtept lat="45.033500" lon="4.823365">
+      <ele>-9999.0</ele>
+      <name>r037</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:32Z</time>
+    </rtept>
+    <rtept lat="45.033158" lon="4.823453">
+      <ele>-9999.0</ele>
+      <name>r038</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:35Z</time>
+    </rtept>
+    <rtept lat="45.032811" lon="4.823347">
+      <ele>-9999.0</ele>
+      <name>r039</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:37Z</time>
+    </rtept>
+    <rtept lat="45.032620" lon="4.823248">
+      <ele>-9999.0</ele>
+      <name>r040</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:38Z</time>
+    </rtept>
+    <rtept lat="45.032310" lon="4.823571">
+      <ele>-9999.0</ele>
+      <name>r041</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:40Z</time>
+    </rtept>
+    <rtept lat="45.032347" lon="4.823961">
+      <ele>-9999.0</ele>
+      <name>r042</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:42Z</time>
+    </rtept>
+    <rtept lat="45.032484" lon="4.824408">
+      <ele>-9999.0</ele>
+      <name>r043</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:43Z</time>
+    </rtept>
+    <rtept lat="45.032368" lon="4.824636">
+      <ele>-9999.0</ele>
+      <name>r044</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:45Z</time>
+    </rtept>
+    <rtept lat="45.031465" lon="4.824324">
+      <ele>-9999.0</ele>
+      <name>r045</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:49Z</time>
+    </rtept>
+    <rtept lat="45.031184" lon="4.824570">
+      <ele>-9999.0</ele>
+      <name>r046</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:50Z</time>
+    </rtept>
+    <rtept lat="45.030803" lon="4.824787">
+      <ele>-9999.0</ele>
+      <name>r047</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:51Z</time>
+    </rtept>
+    <rtept lat="45.030585" lon="4.825049">
+      <ele>-9999.0</ele>
+      <name>r048</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:53Z</time>
+    </rtept>
+    <rtept lat="45.029820" lon="4.825157">
+      <ele>-9999.0</ele>
+      <name>r049</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:54Z</time>
+    </rtept>
+    <rtept lat="45.029695" lon="4.824983">
+      <ele>-9999.0</ele>
+      <name>r050</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:55Z</time>
+    </rtept>
+    <rtept lat="45.029777" lon="4.824637">
+      <ele>-9999.0</ele>
+      <name>r051</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:56Z</time>
+    </rtept>
+    <rtept lat="45.029779" lon="4.824119">
+      <ele>-9999.0</ele>
+      <name>r052</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:57Z</time>
+    </rtept>
+    <rtept lat="45.029939" lon="4.823957">
+      <ele>-9999.0</ele>
+      <name>r053</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:27:59Z</time>
+    </rtept>
+    <rtept lat="45.030394" lon="4.823757">
+      <ele>-9999.0</ele>
+      <name>r054</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:00Z</time>
+    </rtept>
+    <rtept lat="45.030533" lon="4.822882">
+      <ele>-9999.0</ele>
+      <name>r055</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:02Z</time>
+    </rtept>
+    <rtept lat="45.030429" lon="4.822593">
+      <ele>-9999.0</ele>
+      <name>r056</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:04Z</time>
+    </rtept>
+    <rtept lat="45.030011" lon="4.822393">
+      <ele>-9999.0</ele>
+      <name>r057</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:05Z</time>
+    </rtept>
+    <rtept lat="45.029829" lon="4.821477">
+      <ele>-9999.0</ele>
+      <name>r058</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:11Z</time>
+    </rtept>
+    <rtept lat="45.029574" lon="4.820960">
+      <ele>-9999.0</ele>
+      <name>r059</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:13Z</time>
+    </rtept>
+    <rtept lat="45.029413" lon="4.820759">
+      <ele>-9999.0</ele>
+      <name>r060</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:14Z</time>
+    </rtept>
+    <rtept lat="45.029702" lon="4.820176">
+      <ele>-9999.0</ele>
+      <name>r061</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:19Z</time>
+    </rtept>
+    <rtept lat="45.029579" lon="4.819924">
+      <ele>-9999.0</ele>
+      <name>r062</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:20Z</time>
+    </rtept>
+    <rtept lat="45.029230" lon="4.819532">
+      <ele>-9999.0</ele>
+      <name>r063</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:21Z</time>
+    </rtept>
+    <rtept lat="45.028871" lon="4.819102">
+      <ele>-9999.0</ele>
+      <name>r064</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:23Z</time>
+    </rtept>
+    <rtept lat="45.028701" lon="4.818939">
+      <ele>-9999.0</ele>
+      <name>r065</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:24Z</time>
+    </rtept>
+    <rtept lat="45.028783" lon="4.818541">
+      <ele>-9999.0</ele>
+      <name>r066</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:25Z</time>
+    </rtept>
+    <rtept lat="45.029314" lon="4.818227">
+      <ele>-9999.0</ele>
+      <name>r067</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:28Z</time>
+    </rtept>
+    <rtept lat="45.029796" lon="4.818016">
+      <ele>-9999.0</ele>
+      <name>r068</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:29Z</time>
+    </rtept>
+    <rtept lat="45.030343" lon="4.817820">
+      <ele>-9999.0</ele>
+      <name>r069</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:31Z</time>
+    </rtept>
+    <rtept lat="45.030948" lon="4.817885">
+      <ele>-9999.0</ele>
+      <name>r070</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:32Z</time>
+    </rtept>
+    <rtept lat="45.032928" lon="4.816898">
+      <ele>-9999.0</ele>
+      <name>r071</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:37Z</time>
+    </rtept>
+    <rtept lat="45.032879" lon="4.816222">
+      <ele>-9999.0</ele>
+      <name>r072</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:41Z</time>
+    </rtept>
+    <rtept lat="45.032775" lon="4.815932">
+      <ele>-9999.0</ele>
+      <name>r073</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:43Z</time>
+    </rtept>
+    <rtept lat="45.032921" lon="4.815537">
+      <ele>-9999.0</ele>
+      <name>r074</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:44Z</time>
+    </rtept>
+    <rtept lat="45.033173" lon="4.815366">
+      <ele>-9999.0</ele>
+      <name>r075</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:46Z</time>
+    </rtept>
+    <rtept lat="45.033005" lon="4.814685">
+      <ele>-9999.0</ele>
+      <name>r076</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:48Z</time>
+    </rtept>
+    <rtept lat="45.032709" lon="4.814335">
+      <ele>-9999.0</ele>
+      <name>r077</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:51Z</time>
+    </rtept>
+    <rtept lat="45.032335" lon="4.814240">
+      <ele>-9999.0</ele>
+      <name>r078</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:52Z</time>
+    </rtept>
+    <rtept lat="45.032204" lon="4.813911">
+      <ele>-9999.0</ele>
+      <name>r079</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:54Z</time>
+    </rtept>
+    <rtept lat="45.032164" lon="4.813637">
+      <ele>-9999.0</ele>
+      <name>r080</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:55Z</time>
+    </rtept>
+    <rtept lat="45.031904" lon="4.813366">
+      <ele>-9999.0</ele>
+      <name>r081</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:57Z</time>
+    </rtept>
+    <rtept lat="45.031749" lon="4.812880">
+      <ele>-9999.0</ele>
+      <name>r082</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:28:58Z</time>
+    </rtept>
+    <rtept lat="45.031758" lon="4.812504">
+      <ele>-9999.0</ele>
+      <name>r083</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:01Z</time>
+    </rtept>
+    <rtept lat="45.031453" lon="4.812141">
+      <ele>-9999.0</ele>
+      <name>r084</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:05Z</time>
+    </rtept>
+    <rtept lat="45.031388" lon="4.811762">
+      <ele>-9999.0</ele>
+      <name>r085</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:07Z</time>
+    </rtept>
+    <rtept lat="45.031634" lon="4.811436">
+      <ele>-9999.0</ele>
+      <name>r086</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:10Z</time>
+    </rtept>
+    <rtept lat="45.031970" lon="4.811217">
+      <ele>-9999.0</ele>
+      <name>r087</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:12Z</time>
+    </rtept>
+    <rtept lat="45.032097" lon="4.810873">
+      <ele>-9999.0</ele>
+      <name>r088</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:13Z</time>
+    </rtept>
+    <rtept lat="45.031989" lon="4.810376">
+      <ele>-9999.0</ele>
+      <name>r089</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:15Z</time>
+    </rtept>
+    <rtept lat="45.031958" lon="4.810141">
+      <ele>-9999.0</ele>
+      <name>r090</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:16Z</time>
+    </rtept>
+    <rtept lat="45.032088" lon="4.810056">
+      <ele>-9999.0</ele>
+      <name>r091</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:17Z</time>
+    </rtept>
+    <rtept lat="45.031997" lon="4.809599">
+      <ele>-9999.0</ele>
+      <name>r092</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:19Z</time>
+    </rtept>
+    <rtept lat="45.031520" lon="4.809150">
+      <ele>-9999.0</ele>
+      <name>r093</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:21Z</time>
+    </rtept>
+    <rtept lat="45.030964" lon="4.808970">
+      <ele>-9999.0</ele>
+      <name>r094</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:23Z</time>
+    </rtept>
+    <rtept lat="45.030673" lon="4.808801">
+      <ele>-9999.0</ele>
+      <name>r095</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:24Z</time>
+    </rtept>
+    <rtept lat="45.030798" lon="4.808561">
+      <ele>-9999.0</ele>
+      <name>r096</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:26Z</time>
+    </rtept>
+    <rtept lat="45.030976" lon="4.808413">
+      <ele>-9999.0</ele>
+      <name>r097</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:27Z</time>
+    </rtept>
+    <rtept lat="45.030939" lon="4.807608">
+      <ele>-9999.0</ele>
+      <name>r098</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:32Z</time>
+    </rtept>
+    <rtept lat="45.030157" lon="4.805590">
+      <ele>-9999.0</ele>
+      <name>r099</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:34Z</time>
+    </rtept>
+    <rtept lat="45.030009" lon="4.805185">
+      <ele>-9999.0</ele>
+      <name>r100</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:43Z</time>
+    </rtept>
+    <rtept lat="45.029950" lon="4.804562">
+      <ele>-9999.0</ele>
+      <name>r101</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:45Z</time>
+    </rtept>
+    <rtept lat="45.029652" lon="4.803941">
+      <ele>-9999.0</ele>
+      <name>r102</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:47Z</time>
+    </rtept>
+    <rtept lat="45.029304" lon="4.803512">
+      <ele>-9999.0</ele>
+      <name>r103</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:48Z</time>
+    </rtept>
+    <rtept lat="45.029162" lon="4.802912">
+      <ele>-9999.0</ele>
+      <name>r104</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:50Z</time>
+    </rtept>
+    <rtept lat="45.028917" lon="4.801957">
+      <ele>-9999.0</ele>
+      <name>r105</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:52Z</time>
+    </rtept>
+    <rtept lat="45.028697" lon="4.801146">
+      <ele>-9999.0</ele>
+      <name>r106</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:54Z</time>
+    </rtept>
+    <rtept lat="45.028503" lon="4.800970">
+      <ele>-9999.0</ele>
+      <name>r107</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:58Z</time>
+    </rtept>
+    <rtept lat="45.028043" lon="4.801117">
+      <ele>-9999.0</ele>
+      <name>r108</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:29:59Z</time>
+    </rtept>
+    <rtept lat="45.027528" lon="4.800876">
+      <ele>-9999.0</ele>
+      <name>r109</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:30:05Z</time>
+    </rtept>
+    <rtept lat="45.027247" lon="4.801610">
+      <ele>-9999.0</ele>
+      <name>r110</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:30:08Z</time>
+    </rtept>
+    <rtept lat="45.026933" lon="4.802600">
+      <ele>-9999.0</ele>
+      <name>r111</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:30:10Z</time>
+    </rtept>
+    <rtept lat="45.026742" lon="4.802990">
+      <ele>-9999.0</ele>
+      <name>r112</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:30:11Z</time>
+    </rtept>
+    <rtept lat="45.026236" lon="4.802337">
+      <ele>-9999.0</ele>
+      <name>r113</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:30:13Z</time>
+    </rtept>
+    <rtept lat="45.025813" lon="4.802074">
+      <ele>-9999.0</ele>
+      <name>r114</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:30:14Z</time>
+    </rtept>
+    <rtept lat="45.025443" lon="4.801916">
+      <ele>-9999.0</ele>
+      <name>r115</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:30:15Z</time>
+    </rtept>
+    <rtept lat="45.024851" lon="4.801426">
+      <ele>-9999.0</ele>
+      <name>r116</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:30:17Z</time>
+    </rtept>
+    <rtept lat="45.024587" lon="4.800977">
+      <ele>-9999.0</ele>
+      <name>r117</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:30:26Z</time>
+    </rtept>
+    <rtept lat="45.024277" lon="4.800989">
+      <ele>-9999.0</ele>
+      <name>r118</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:30:27Z</time>
+    </rtept>
+    <rtept lat="45.024024" lon="4.800463">
+      <ele>-9999.0</ele>
+      <name>r119</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:30:30Z</time>
+    </rtept>
+    <rtept lat="45.023674" lon="4.799999">
+      <ele>-9999.0</ele>
+      <name>r120</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:30:37Z</time>
+    </rtept>
+    <rtept lat="45.023167" lon="4.799639">
+      <ele>-9999.0</ele>
+      <name>r121</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:30:39Z</time>
+    </rtept>
+    <rtept lat="45.022500" lon="4.799565">
+      <ele>-9999.0</ele>
+      <name>r122</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:30:55Z</time>
+    </rtept>
+    <rtept lat="45.022115" lon="4.799815">
+      <ele>-9999.0</ele>
+      <name>r123</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:30:56Z</time>
+    </rtept>
+    <rtept lat="45.021245" lon="4.799368">
+      <ele>-9999.0</ele>
+      <name>r124</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:30:58Z</time>
+    </rtept>
+    <rtept lat="45.020253" lon="4.798884">
+      <ele>-9999.0</ele>
+      <name>r125</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:31:06Z</time>
+    </rtept>
+    <rtept lat="45.018893" lon="4.797363">
+      <ele>-9999.0</ele>
+      <name>r126</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:31:09Z</time>
+    </rtept>
+    <rtept lat="45.017829" lon="4.796609">
+      <ele>-9999.0</ele>
+      <name>r127</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:31:14Z</time>
+    </rtept>
+    <rtept lat="45.017235" lon="4.796284">
+      <ele>-9999.0</ele>
+      <name>r128</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:31:16Z</time>
+    </rtept>
+    <rtept lat="45.016604" lon="4.796083">
+      <ele>-9999.0</ele>
+      <name>r129</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:31:18Z</time>
+    </rtept>
+    <rtept lat="45.016218" lon="4.795406">
+      <ele>-9999.0</ele>
+      <name>r130</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:31:26Z</time>
+    </rtept>
+    <rtept lat="45.015721" lon="4.794206">
+      <ele>-9999.0</ele>
+      <name>r131</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:31:28Z</time>
+    </rtept>
+    <rtept lat="45.015390" lon="4.793547">
+      <ele>-9999.0</ele>
+      <name>r132</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:31:31Z</time>
+    </rtept>
+    <rtept lat="45.014683" lon="4.792746">
+      <ele>-9999.0</ele>
+      <name>r133</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:31:33Z</time>
+    </rtept>
+    <rtept lat="45.014108" lon="4.792046">
+      <ele>-9999.0</ele>
+      <name>r134</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:31:38Z</time>
+    </rtept>
+    <rtept lat="45.013785" lon="4.791544">
+      <ele>-9999.0</ele>
+      <name>r135</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:31:40Z</time>
+    </rtept>
+    <rtept lat="45.013586" lon="4.790986">
+      <ele>-9999.0</ele>
+      <name>r136</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:31:41Z</time>
+    </rtept>
+    <rtept lat="45.013333" lon="4.791284">
+      <ele>-9999.0</ele>
+      <name>r137</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:31:55Z</time>
+    </rtept>
+    <rtept lat="45.013088" lon="4.791881">
+      <ele>-9999.0</ele>
+      <name>r138</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:31:57Z</time>
+    </rtept>
+    <rtept lat="45.013013" lon="4.792267">
+      <ele>-9999.0</ele>
+      <name>r139</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:31:59Z</time>
+    </rtept>
+    <rtept lat="45.012796" lon="4.792569">
+      <ele>-9999.0</ele>
+      <name>r140</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:32:01Z</time>
+    </rtept>
+    <rtept lat="45.012529" lon="4.792666">
+      <ele>-9999.0</ele>
+      <name>r141</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:32:03Z</time>
+    </rtept>
+    <rtept lat="45.012135" lon="4.792509">
+      <ele>-9999.0</ele>
+      <name>r142</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:32:04Z</time>
+    </rtept>
+    <rtept lat="45.011791" lon="4.792541">
+      <ele>-9999.0</ele>
+      <name>r143</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:32:06Z</time>
+    </rtept>
+    <rtept lat="45.011551" lon="4.792919">
+      <ele>-9999.0</ele>
+      <name>r144</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:32:08Z</time>
+    </rtept>
+    <rtept lat="45.011361" lon="4.793519">
+      <ele>-9999.0</ele>
+      <name>r145</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:32:10Z</time>
+    </rtept>
+    <rtept lat="45.010659" lon="4.793784">
+      <ele>-9999.0</ele>
+      <name>r146</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:32:13Z</time>
+    </rtept>
+    <rtept lat="45.010404" lon="4.794287">
+      <ele>-9999.0</ele>
+      <name>r147</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:32:18Z</time>
+    </rtept>
+    <rtept lat="45.009703" lon="4.795004">
+      <ele>-9999.0</ele>
+      <name>r148</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:32:21Z</time>
+    </rtept>
+    <rtept lat="45.009587" lon="4.795248">
+      <ele>-9999.0</ele>
+      <name>r149</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:32:23Z</time>
+    </rtept>
+    <rtept lat="45.009589" lon="4.795669">
+      <ele>-9999.0</ele>
+      <name>r150</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:32:25Z</time>
+    </rtept>
+    <rtept lat="45.009785" lon="4.796285">
+      <ele>-9999.0</ele>
+      <name>r151</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:32:26Z</time>
+    </rtept>
+    <rtept lat="45.009922" lon="4.796587">
+      <ele>-9999.0</ele>
+      <name>r152</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:32:29Z</time>
+    </rtept>
+    <rtept lat="45.010061" lon="4.797294">
+      <ele>-9999.0</ele>
+      <name>r153</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:32:31Z</time>
+    </rtept>
+    <rtept lat="45.010222" lon="4.797535">
+      <ele>-9999.0</ele>
+      <name>r154</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:32:34Z</time>
+    </rtept>
+    <rtept lat="45.010623" lon="4.797864">
+      <ele>-9999.0</ele>
+      <name>r155</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:32:36Z</time>
+    </rtept>
+    <rtept lat="45.011256" lon="4.800214">
+      <ele>-9999.0</ele>
+      <name>r156</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:32:44Z</time>
+    </rtept>
+    <rtept lat="45.011902" lon="4.801489">
+      <ele>-9999.0</ele>
+      <name>r157</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:32:46Z</time>
+    </rtept>
+    <rtept lat="45.012404" lon="4.802259">
+      <ele>-9999.0</ele>
+      <name>r158</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:32:50Z</time>
+    </rtept>
+    <rtept lat="45.012806" lon="4.804068">
+      <ele>-9999.0</ele>
+      <name>r159</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:32:54Z</time>
+    </rtept>
+    <rtept lat="45.013294" lon="4.804978">
+      <ele>-9999.0</ele>
+      <name>r160</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:32:57Z</time>
+    </rtept>
+    <rtept lat="45.013190" lon="4.805674">
+      <ele>-9999.0</ele>
+      <name>r161</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:33:05Z</time>
+    </rtept>
+    <rtept lat="45.013829" lon="4.806264">
+      <ele>-9999.0</ele>
+      <name>r162</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:33:07Z</time>
+    </rtept>
+    <rtept lat="45.014540" lon="4.806622">
+      <ele>-9999.0</ele>
+      <name>r163</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:33:09Z</time>
+    </rtept>
+    <rtept lat="45.015431" lon="4.806786">
+      <ele>-9999.0</ele>
+      <name>r164</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:33:11Z</time>
+    </rtept>
+    <rtept lat="45.015837" lon="4.806945">
+      <ele>-9999.0</ele>
+      <name>r165</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:33:13Z</time>
+    </rtept>
+    <rtept lat="45.016334" lon="4.806920">
+      <ele>-9999.0</ele>
+      <name>r166</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:33:15Z</time>
+    </rtept>
+    <rtept lat="45.016507" lon="4.807115">
+      <ele>-9999.0</ele>
+      <name>r167</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:33:18Z</time>
+    </rtept>
+    <rtept lat="45.016807" lon="4.808016">
+      <ele>-9999.0</ele>
+      <name>r168</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:33:19Z</time>
+    </rtept>
+    <rtept lat="45.016967" lon="4.808304">
+      <ele>-9999.0</ele>
+      <name>r169</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:33:21Z</time>
+    </rtept>
+    <rtept lat="45.017220" lon="4.808346">
+      <ele>-9999.0</ele>
+      <name>r170</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:33:24Z</time>
+    </rtept>
+    <rtept lat="45.017504" lon="4.808483">
+      <ele>-9999.0</ele>
+      <name>r171</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:33:26Z</time>
+    </rtept>
+    <rtept lat="45.017767" lon="4.809087">
+      <ele>-9999.0</ele>
+      <name>r172</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:33:28Z</time>
+    </rtept>
+    <rtept lat="45.017733" lon="4.809631">
+      <ele>-9999.0</ele>
+      <name>r173</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:33:29Z</time>
+    </rtept>
+    <rtept lat="45.017972" lon="4.809813">
+      <ele>-9999.0</ele>
+      <name>r174</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:33:36Z</time>
+    </rtept>
+    <rtept lat="45.018226" lon="4.809824">
+      <ele>-9999.0</ele>
+      <name>r175</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:33:37Z</time>
+    </rtept>
+    <rtept lat="45.018773" lon="4.809568">
+      <ele>-9999.0</ele>
+      <name>r176</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:33:39Z</time>
+    </rtept>
+    <rtept lat="45.019368" lon="4.809641">
+      <ele>-9999.0</ele>
+      <name>r177</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:33:41Z</time>
+    </rtept>
+    <rtept lat="45.019476" lon="4.809786">
+      <ele>-9999.0</ele>
+      <name>r178</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:33:42Z</time>
+    </rtept>
+    <rtept lat="45.019236" lon="4.810134">
+      <ele>-9999.0</ele>
+      <name>r179</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:33:45Z</time>
+    </rtept>
+    <rtept lat="45.019044" lon="4.810312">
+      <ele>-9999.0</ele>
+      <name>r180</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:33:46Z</time>
+    </rtept>
+    <rtept lat="45.019027" lon="4.811060">
+      <ele>-9999.0</ele>
+      <name>r181</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:33:49Z</time>
+    </rtept>
+    <rtept lat="45.018819" lon="4.811487">
+      <ele>-9999.0</ele>
+      <name>r182</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:33:52Z</time>
+    </rtept>
+    <rtept lat="45.018711" lon="4.812339">
+      <ele>-9999.0</ele>
+      <name>r183</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:33:58Z</time>
+    </rtept>
+    <rtept lat="45.018840" lon="4.812532">
+      <ele>-9999.0</ele>
+      <name>r184</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:34:04Z</time>
+    </rtept>
+    <rtept lat="45.019241" lon="4.812877">
+      <ele>-9999.0</ele>
+      <name>r185</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:34:06Z</time>
+    </rtept>
+    <rtept lat="45.019280" lon="4.812993">
+      <ele>-9999.0</ele>
+      <name>r186</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:34:11Z</time>
+    </rtept>
+    <rtept lat="45.018580" lon="4.813060">
+      <ele>-9999.0</ele>
+      <name>r187</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:34:14Z</time>
+    </rtept>
+    <rtept lat="45.018280" lon="4.813017">
+      <ele>-9999.0</ele>
+      <name>r188</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:34:16Z</time>
+    </rtept>
+    <rtept lat="45.018031" lon="4.812908">
+      <ele>-9999.0</ele>
+      <name>r189</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:34:17Z</time>
+    </rtept>
+    <rtept lat="45.017330" lon="4.813359">
+      <ele>-9999.0</ele>
+      <name>r190</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:34:20Z</time>
+    </rtept>
+    <rtept lat="45.017234" lon="4.813572">
+      <ele>-9999.0</ele>
+      <name>r191</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:34:21Z</time>
+    </rtept>
+    <rtept lat="45.017035" lon="4.813415">
+      <ele>-9999.0</ele>
+      <name>r192</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:34:23Z</time>
+    </rtept>
+    <rtept lat="45.017119" lon="4.813734">
+      <ele>-9999.0</ele>
+      <name>r193</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:34:24Z</time>
+    </rtept>
+    <rtept lat="45.017386" lon="4.814258">
+      <ele>-9999.0</ele>
+      <name>r194</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:34:26Z</time>
+    </rtept>
+    <rtept lat="45.017485" lon="4.814538">
+      <ele>-9999.0</ele>
+      <name>r195</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:34:27Z</time>
+    </rtept>
+    <rtept lat="45.017585" lon="4.814598">
+      <ele>-9999.0</ele>
+      <name>r196</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:34:56Z</time>
+    </rtept>
+    <rtept lat="45.017593" lon="4.814255">
+      <ele>-9999.0</ele>
+      <name>r197</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:34:58Z</time>
+    </rtept>
+    <rtept lat="45.017714" lon="4.814122">
+      <ele>-9999.0</ele>
+      <name>r198</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:35:00Z</time>
+    </rtept>
+    <rtept lat="45.018007" lon="4.814425">
+      <ele>-9999.0</ele>
+      <name>r199</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:35:02Z</time>
+    </rtept>
+    <rtept lat="45.018399" lon="4.814688">
+      <ele>-9999.0</ele>
+      <name>r200</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:35:03Z</time>
+    </rtept>
+    <rtept lat="45.019756" lon="4.815273">
+      <ele>-9999.0</ele>
+      <name>r201</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:35:09Z</time>
+    </rtept>
+    <rtept lat="45.020885" lon="4.815668">
+      <ele>-9999.0</ele>
+      <name>r202</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:35:12Z</time>
+    </rtept>
+    <rtept lat="45.021636" lon="4.816010">
+      <ele>-9999.0</ele>
+      <name>r203</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:35:19Z</time>
+    </rtept>
+    <rtept lat="45.021872" lon="4.815985">
+      <ele>-9999.0</ele>
+      <name>r204</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:35:21Z</time>
+    </rtept>
+    <rtept lat="45.022007" lon="4.815587">
+      <ele>-9999.0</ele>
+      <name>r205</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:35:22Z</time>
+    </rtept>
+    <rtept lat="45.022231" lon="4.813862">
+      <ele>-9999.0</ele>
+      <name>r206</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:35:25Z</time>
+    </rtept>
+    <rtept lat="45.022435" lon="4.813800">
+      <ele>-9999.0</ele>
+      <name>r207</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:35:26Z</time>
+    </rtept>
+    <rtept lat="45.022590" lon="4.814757">
+      <ele>-9999.0</ele>
+      <name>r208</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:35:28Z</time>
+    </rtept>
+    <rtept lat="45.022646" lon="4.815639">
+      <ele>-9999.0</ele>
+      <name>r209</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:35:30Z</time>
+    </rtept>
+    <rtept lat="45.022694" lon="4.816508">
+      <ele>-9999.0</ele>
+      <name>r210</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:35:31Z</time>
+    </rtept>
+    <rtept lat="45.022967" lon="4.817114">
+      <ele>-9999.0</ele>
+      <name>r211</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:35:33Z</time>
+    </rtept>
+    <rtept lat="45.023327" lon="4.817182">
+      <ele>-9999.0</ele>
+      <name>r212</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:36:36Z</time>
+    </rtept>
+    <rtept lat="45.023582" lon="4.817577">
+      <ele>-9999.0</ele>
+      <name>r213</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:36:37Z</time>
+    </rtept>
+    <rtept lat="45.024282" lon="4.817992">
+      <ele>-9999.0</ele>
+      <name>r214</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:36:38Z</time>
+    </rtept>
+    <rtept lat="45.024446" lon="4.818419">
+      <ele>-9999.0</ele>
+      <name>r215</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:36:40Z</time>
+    </rtept>
+    <rtept lat="45.024874" lon="4.818472">
+      <ele>-9999.0</ele>
+      <name>r216</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:36:41Z</time>
+    </rtept>
+    <rtept lat="45.025057" lon="4.818771">
+      <ele>-9999.0</ele>
+      <name>r217</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:36:43Z</time>
+    </rtept>
+    <rtept lat="45.025915" lon="4.819159">
+      <ele>-9999.0</ele>
+      <name>r218</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:36:48Z</time>
+    </rtept>
+    <rtept lat="45.026759" lon="4.820139">
+      <ele>-9999.0</ele>
+      <name>r219</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:36:49Z</time>
+    </rtept>
+    <rtept lat="45.026982" lon="4.820509">
+      <ele>-9999.0</ele>
+      <name>r220</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:36:51Z</time>
+    </rtept>
+    <rtept lat="45.027087" lon="4.820991">
+      <ele>-9999.0</ele>
+      <name>r221</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:36:52Z</time>
+    </rtept>
+    <rtept lat="45.027258" lon="4.821092">
+      <ele>-9999.0</ele>
+      <name>r222</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:36:54Z</time>
+    </rtept>
+    <rtept lat="45.027485" lon="4.820916">
+      <ele>-9999.0</ele>
+      <name>r223</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:36:56Z</time>
+    </rtept>
+    <rtept lat="45.027784" lon="4.821162">
+      <ele>-9999.0</ele>
+      <name>r224</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:36:57Z</time>
+    </rtept>
+    <rtept lat="45.027926" lon="4.821820">
+      <ele>-9999.0</ele>
+      <name>r225</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:36:59Z</time>
+    </rtept>
+    <rtept lat="45.028182" lon="4.822204">
+      <ele>-9999.0</ele>
+      <name>r226</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:00Z</time>
+    </rtept>
+    <rtept lat="45.028117" lon="4.822504">
+      <ele>-9999.0</ele>
+      <name>r227</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:02Z</time>
+    </rtept>
+    <rtept lat="45.027963" lon="4.822776">
+      <ele>-9999.0</ele>
+      <name>r228</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:04Z</time>
+    </rtept>
+    <rtept lat="45.028085" lon="4.823224">
+      <ele>-9999.0</ele>
+      <name>r229</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:05Z</time>
+    </rtept>
+    <rtept lat="45.028324" lon="4.823572">
+      <ele>-9999.0</ele>
+      <name>r230</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:07Z</time>
+    </rtept>
+    <rtept lat="45.028054" lon="4.824619">
+      <ele>-9999.0</ele>
+      <name>r231</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:12Z</time>
+    </rtept>
+    <rtept lat="45.028042" lon="4.825125">
+      <ele>-9999.0</ele>
+      <name>r232</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:14Z</time>
+    </rtept>
+    <rtept lat="45.027689" lon="4.825789">
+      <ele>-9999.0</ele>
+      <name>r233</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:15Z</time>
+    </rtept>
+    <rtept lat="45.027767" lon="4.825937">
+      <ele>-9999.0</ele>
+      <name>r234</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:17Z</time>
+    </rtept>
+    <rtept lat="45.028137" lon="4.825939">
+      <ele>-9999.0</ele>
+      <name>r235</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:18Z</time>
+    </rtept>
+    <rtept lat="45.028178" lon="4.826389">
+      <ele>-9999.0</ele>
+      <name>r236</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:20Z</time>
+    </rtept>
+    <rtept lat="45.028577" lon="4.826884">
+      <ele>-9999.0</ele>
+      <name>r237</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:21Z</time>
+    </rtept>
+    <rtept lat="45.028970" lon="4.827669">
+      <ele>-9999.0</ele>
+      <name>r238</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:25Z</time>
+    </rtept>
+    <rtept lat="45.029318" lon="4.828595">
+      <ele>-9999.0</ele>
+      <name>r239</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:28Z</time>
+    </rtept>
+    <rtept lat="45.029509" lon="4.828792">
+      <ele>-9999.0</ele>
+      <name>r240</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:29Z</time>
+    </rtept>
+    <rtept lat="45.032845" lon="4.826844">
+      <ele>-9999.0</ele>
+      <name>r241</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:34Z</time>
+    </rtept>
+    <rtept lat="45.033313" lon="4.827024">
+      <ele>-9999.0</ele>
+      <name>r242</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:36Z</time>
+    </rtept>
+    <rtept lat="45.033447" lon="4.827015">
+      <ele>-9999.0</ele>
+      <name>r243</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:41Z</time>
+    </rtept>
+    <rtept lat="45.034953" lon="4.826200">
+      <ele>-9999.0</ele>
+      <name>r244</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:43Z</time>
+    </rtept>
+    <rtept lat="45.035050" lon="4.826421">
+      <ele>-9999.0</ele>
+      <name>r245</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:45Z</time>
+    </rtept>
+    <rtept lat="45.035186" lon="4.827223">
+      <ele>-9999.0</ele>
+      <name>r246</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:46Z</time>
+    </rtept>
+    <rtept lat="45.035754" lon="4.827523">
+      <ele>-9999.0</ele>
+      <name>r247</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:47Z</time>
+    </rtept>
+    <rtept lat="45.037218" lon="4.827618">
+      <ele>-9999.0</ele>
+      <name>r248</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:52Z</time>
+    </rtept>
+    <rtept lat="45.037635" lon="4.827781">
+      <ele>-9999.0</ele>
+      <name>r249</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:54Z</time>
+    </rtept>
+    <rtept lat="45.037944" lon="4.827751">
+      <ele>-9999.0</ele>
+      <name>r250</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:55Z</time>
+    </rtept>
+    <rtept lat="45.038405" lon="4.826846">
+      <ele>-9999.0</ele>
+      <name>r251</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:37:56Z</time>
+    </rtept>
+    <rtept lat="45.038767" lon="4.826832">
+      <ele>-9999.0</ele>
+      <name>r252</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:38:19Z</time>
+    </rtept>
+    <rtept lat="45.038948" lon="4.826972">
+      <ele>0.0</ele>
+      <name>r253</name>
+      <desc></desc>
+      <sym>Waypoint</sym>
+      <time>2011-11-22T06:38:35Z</time>
+    </rtept>
+  </rte>
+</gpx>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX Android" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <time>2020-04-29T07:09:57Z</time>
+ </metadata>
+ <trk>
+  <name>Marche matinale</name>
+  <type>10</type>
+  <trkseg>
+   <trkpt lat="44.9215780" lon="4.9390670">
+    <ele>152.8</ele>
+    <time>2020-04-29T07:09:57Z</time>
+   </trkpt>
+   <trkpt lat="44.9215780" lon="4.9390670">
+    <ele>152.8</ele>
+    <time>2020-04-29T07:10:02Z</time>
+   </trkpt>
+   <trkpt lat="44.9234010" lon="4.9333620">
+    <ele>153.1</ele>
+    <time>2020-04-29T07:10:10Z</time>
+   </trkpt>
+   <trkpt lat="44.9233980" lon="4.9331300">
+    <ele>153.1</ele>
+    <time>2020-04-29T07:10:12Z</time>
+   </trkpt>
+   <trkpt lat="44.9234830" lon="4.9331340">
+    <ele>153.1</ele>
+    <time>2020-04-29T07:10:13Z</time>
+   </trkpt>
+   <trkpt lat="44.9236080" lon="4.9331500">
+    <ele>153.1</ele>
+    <time>2020-04-29T07:10:15Z</time>
+   </trkpt>
+   <trkpt lat="44.9236320" lon="4.9331270">
+    <ele>153.1</ele>
+    <time>2020-04-29T07:10:16Z</time>
+   </trkpt>
+   <trkpt lat="44.9236480" lon="4.9331090">
+    <ele>153.1</ele>
+    <time>2020-04-29T07:10:18Z</time>
+   </trkpt>
+   <trkpt lat="44.9236620" lon="4.9331260">
+    <ele>153.1</ele>
+    <time>2020-04-29T07:10:19Z</time>
+   </trkpt>
+   <trkpt lat="44.9236840" lon="4.9331710">
+    <ele>153.2</ele>
+    <time>2020-04-29T07:10:20Z</time>
+   </trkpt>
+   <trkpt lat="44.9236960" lon="4.9331920">
+    <ele>153.2</ele>
+    <time>2020-04-29T07:10:21Z</time>
+   </trkpt>
+   <trkpt lat="44.9237190" lon="4.9332250">
+    <ele>153.2</ele>
+    <time>2020-04-29T07:10:22Z</time>
+   </trkpt>
+   <trkpt lat="44.9237360" lon="4.9332450">
+    <ele>153.2</ele>
+    <time>2020-04-29T07:10:23Z</time>
+   </trkpt>
+   <trkpt lat="44.9237440" lon="4.9332500">
+    <ele>153.2</ele>
+    <time>2020-04-29T07:10:24Z</time>
+   </trkpt>
+   <trkpt lat="44.9237590" lon="4.9332580">
+    <ele>153.2</ele>
+    <time>2020-04-29T07:10:25Z</time>
+   </trkpt>
+   <trkpt lat="44.9237850" lon="4.9332700">
+    <ele>153.2</ele>
+    <time>2020-04-29T07:10:27Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>

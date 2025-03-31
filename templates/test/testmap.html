@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" 
+      xmlns:v="urn:schemas-microsoft-com:vml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Test multimap</title>
+    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAA9MqCOVKQoMF37ULkDslXSBTumSKfEb5PT5L3ynL_rapc1fCu4xSx_8nXQdB0T3goay31ZieLHoicLA"
+      type="text/javascript"></script>
+    <script type="text/javascript"> 
+    function initialize() {
+      if (GBrowserIsCompatible()) {
+        elements = document.getElementsByTagName('div');
+		for(var i = 0; i < elements.length ; i++){
+			if(elements[i].className  == 'maps'){
+				loadMap(elements[i].id);
+			}
+		}
+      }
+    } 
+
+    function loadMap(geoXMLString) {
+		geoXml = new GGeoXml(geoXMLString,function(){
+			map = new GMap2(document.getElementById(geoXMLString)); 
+			map.addControl(new GLargeMapControl());
+			map.addControl(new GLargeMapControl());
+			map.setCenter(geoXml.getDefaultCenter(), 11);
+			map.addOverlay(geoXml);
+		});
+        /*map = new GMap2(document.getElementById(geoXMLString)); 
+        map.addControl(new GLargeMapControl());
+        map.addControl(new GLargeMapControl());
+        map.setCenter(new GLatLng(41.875696,-87.624207), 11);
+		map.addOverlay(geoXml);*/
+		//alert(geoXml.getDefaultCenter());
+    }
+	</script>
+  </head>
+
+  <body onload="initialize()">
+    <div class="maps" id="http://www.lemontagnardesalpes.fr/templates/test/cta.kml" style="width: 640px; height: 480px; float:left; border: 1px solid black;"></div>
+	<div class="maps" id="http://www.lemontagnardesalpes.fr/templates/test/test.kml" style="width: 640px; height: 480px; float:left; border: 1px solid black;"></div>
+    <br clear="all"/>
+    <br/>
+    <input type="button" value="Toggle KML" onClick="toggleMyKml();"/>
+  </body>
+</html>

@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+	<head>
+	<script type="text/javascript">
+		var monCalque = null;
+
+		//fonction qui simplifie la vie de http://www.siteduzero.com/membres-294-15762.html
+		function addEvent(obj,event,fct){
+        if( obj.attachEvent)
+                obj.attachEvent('on' + event,fct);
+        else
+                obj.addEventListener(event,fct,true);
+		}
+		
+		function init(){
+			obj = document.getElementById('calquePhoto1');
+			addEvent(obj,"mousemove",drag);
+			addEvent(obj,"mouseup",drop);
+			addEvent(obj,"mousedown",function (event){
+				//astuce de http://www.siteduzero.com/membres-294-15762.html pour chercher la si on est bien ou il faut.
+				var target = event.target || event.srcElement;
+				var element = target;
+				while(element){
+					if( element.id && element.id == 'calquePhoto'){
+						start(element,event);
+						element = false;
+					}
+					else
+						element = element.parentNode;
+				}
+			});
+			
+		} 
+		function start(e,event){
+			event.returnValue = false;
+			if( event.preventDefault ) event.preventDefault();
+			monCalque = document.getElementById('calquePhoto1');
+			imSrc = e.src;
+			imId = e.id;
+			imWidth = e.width;
+			imHeight = e.height;
+			monCalque.X = monCalque.style.left;
+			monCalque.X = monCalque.X.substring(0,monCalque.X.length-2);
+			monCalque.Y = monCalque.style.top;
+			monCalque.Y = monCalque.Y.substring(0,monCalque.Y.length-2);
+		}
+		
+		function setSize(event,borderStyle,delCalque){
+			if(monCalque){
+				imWidth = event.clientX - monCalque.X;
+				imHeight = event.clientY - monCalque.Y;
+				var img = document.getElementById(imId);
+				img.style.border = borderStyle;
+				img.style.width = imWidth + 'px';
+				img.style.height = imHeight + 'px';
+				document.getElementById('nWidth').value = imWidth;
+				document.getElementById('nHeight').value = imHeight;
+				if(delCalque)monCalque = null;
+				return false;
+			}
+		}
+		
+		function drag(e){
+			return setSize(e,"solid black 1px",false);
+		} 
+		
+		function drop(e){
+			return setSize(e,"none",true);
+		} 
+		
+		function widthChange(object){
+			var img = document.getElementById('calquePhoto');
+			img.style.width = object.value +'px';
+			document.getElementById('nHeight').value = img.height;
+		}
+		
+		function heightChange(object){
+			var img = document.getElementById('calquePhoto');
+			img.style.height = object.value + 'px';
+			document.getElementById('nWidth').value = img.width;
+		}
+	</script>
+	</head>
+	<body onload="init();">
+		<div id="calquePhoto1">
+			<img id="calquePhoto" style="cursor:se-resize;" src="204698424145f054933b562768684203.gif" alt="photo" />
+		</div>
+		<form action="#" method="post">
+			<fieldset>
+				<legend>Nouvelles dimensions</legend>
+				<input type="text" name="nWidth" id="nWidth" onchange="widthChange(this);" /> x 
+				<input type="text" name="nHeight" id="nHeight" onchange="heightChange(this);" />
+				<input type="submit" value="modifier" />
+			</fieldset>
+		</form>
+	</body>
+</html>

@@ -1,0 +1,147 @@
+<optgroup label="Haute Savoie">
+	<option value="22">Bornes - Aravis</option>
+	<option value="23">Chablais - Faucigny</option>
+	<option value="24">Haut Giffre - Aiguilles Rouges</option>
+	<option value="25">Mont Blanc</option>
+</optgroup>
+<optgroup label="Savoie">
+	<option value="17">Alpes Grées N</option>
+	<option value="15">Alpes Grées S</option>
+	<option value="20">Bauges</option>
+	<option value="21">Beaufortain</option>
+	<option value="19">Lauzière - Cheval Noir</option>
+	<option value="18">Vanoise</option>
+</optgroup>
+<optgroup label="Isère">
+	<option value="12">Belledonne</option>
+	<option value="11">Chartreuse</option>
+	<option value="13">Grandes Rousses - Arves</option>
+	<option value="9">Taillefer - Matheysine</option>
+	<option value="10">Vercors</option>
+</optgroup>
+<optgroup label="Hautes Alpes">
+	<option value="14">Cerces - Thabor - Mont Cenis</option>
+	<option value="8">Devoluy</option>
+	<option value="7">Ecrins</option>
+	<option value="6">Queyras - Alpes Cozie N</option>
+</optgroup>
+<optgroup label="Alpes du Sud - Corse">
+	<option value="33">Corse</option>
+	<option value="4">Mercantour - Alpes Maritimes Italiennes</option>
+	<option value="2">Préalpes de Digne</option>
+	<option value="3">Préalpes de Grasse</option>
+	<option value="1">Préalpes de provence</option>
+	<option value="5">Ubaye - Parpaillon - Alpes Cozie S</option>
+</optgroup>
+<optgroup label="Pyrénées">
+	<option value="36">Andorre - Ariège</option>
+	<option value="94">Canigou - Catalogne Est</option>
+	<option value="63">Cerdagne - Capcir - Conflent</option>
+	<option value="95">Couserans - Catalogne Ouest</option>
+	<option value="97">Luchon - Posets - Maladeta</option>
+	<option value="34">Mont-Perdu - Gavarnie - Bigorre</option>
+	<option value="35">Navarre - Béarn</option>
+</optgroup>
+<optgroup label="Autres massifs">
+	<option value="37">Jura</option>
+	<option value="38">Massif Central</option>
+	<option value="39">Vosges</option>
+</optgroup>
+<optgroup label="Italie">
+	<option value="109">Alpes Orobie</option>
+	<option value="108">Etna</option>
+	<option value="16">Grand Paradis</option>
+</optgroup>
+<optgroup label="Suisse">
+	<option value="67">Albula Alpen</option>
+	<option value="31">Alpes Bernoises E</option>
+	<option value="30">Alpes Bernoises W</option>
+	<option value="40">Alpes de Suisse Centrale</option>
+	<option value="60">Alpes Glaronaises</option>
+	<option value="28">Alpes Vaudoises</option>
+	<option value="147">Churfirsten</option>
+	<option value="103">Oberhalbsteiner Alpen</option>
+	<option value="29">Préalpes Fribourgeoises/Bernoises</option>
+	<option value="64">Silvretta - Schesaplana</option>
+	<option value="112">Tessin E - Adula - Grisons</option>
+	<option value="32">Tessin W - Conches</option>
+	<option value="27">Valais E - Alpes Pennines E</option>
+	<option value="26">Valais W - Alpes Pennines W</option>
+</optgroup>
+<optgroup label="Europe">
+	<option value="83">Anatolie (Turquie/Géorgie)</option>
+	<option value="124">Chiemgauer Alpen</option>
+	<option value="125">Espagne (hors Pyrénées)</option>
+	<option value="134">Gredos (Espagne)</option>
+	<option value="140">Guadarrama (Espagne)</option>
+	<option value="145">Highlands (Royaume Uni, Irlande)</option>
+	<option value="68">Hoellengebirge (Autriche)</option>
+	<option value="42">Hohe Tauern</option>
+	<option value="43">Ortles</option>
+	<option value="44">Ötztal</option>
+	<option value="87">Schneeberg (Autriche)</option>
+	<option value="84">Silvretta (Autriche)</option>
+	<option value="45">Stubai</option>
+	<option value="76">Tatras (Pologne/Slovaquie)</option>
+</optgroup>
+<optgroup label="Scandinavie - Islande">
+	<option value="142">Alpes de Lyngen (Norvege)</option>
+	<option value="93">Dovrefjell (Norvège)</option>
+	<option value="118">îles Lofoten/Vesterolen</option>
+	<option value="171">Islande</option>
+	<option value="90">Jotunheimen (Norvège)</option>
+	<option value="91">Région des Fjords (Norvège)</option>
+	<option value="102">Sånfjället (Suède)</option>
+</optgroup>
+<optgroup label="Amérique du Nord">
+	<option value="73">Cascades (USA, Nord-Ouest)</option>
+	<option value="152">Coastal Range (Canada)</option>
+	<option value="116">Colorado</option>
+	<option value="79">Garibaldi Provincial Park (Canada)</option>
+	<option value="119">Green Mountains (USA, Cote Est Vermont)</option>
+	<option value="72">Québec</option>
+</optgroup>
+<optgroup label="Amérique du Sud">
+	<option value="46">Andes centrales</option>
+	<option value="96">Araucanie (Chili)</option>
+	<option value="115">Cordilière Blanche (Pérou)</option>
+	<option value="99">Patagonie (Argentine)</option>
+	<option value="100">Région de Bariloche</option>
+	<option value="98">Region des lacs (Chili)</option>
+</optgroup>
+<optgroup label="Afrique">
+	<option value="47">Haut atlas Marocain</option>
+</optgroup>
+<optgroup label="Asie">
+	<option value="121">Alpes Japonaises</option>
+	<option value="151">Babash Ata (Kyrgystan)</option>
+	<option value="48">Himalaya</option>
+</optgroup>
+<optgroup label="Océanie">
+	<option value="49">Nouvelle Zelande</option>
+</optgroup>
+<optgroup label="-">
+	<option value="157">Abruzzes</option>
+	<option value="185">Alpes Carniques</option>
+	<option value="156">Alpes du Nord - versant Est</option>
+	<option value="164">Andes Centrale V iéme région</option>
+	<option value="162">bucegi</option>
+	<option value="158">Bulgarie</option>
+	<option value="163">Coastal range Alaska</option>
+	<option value="133">Collines</option>
+	<option value="173">Dolomites</option>
+	<option value="183">Est Tirol</option>
+	<option value="184">Grèce centrale et Péloponnèse</option>
+	<option value="192">hekla</option>
+	<option value="159">Liban</option>
+	<option value="172">NAVIS</option>
+	<option value="182">Ouest tirol</option>
+	<option value="174">Plessur-Alpen</option>
+	<option value="181">Sud Tirol (Villgratner Berge)</option>
+	<option value="190">Terskey Ala-Too (Kyrgyzstan)</option>
+	<option value="178">Trollheimen(Norvège)</option>
+	<option value="177">Trondheimsmarka (Norvège)</option>
+	<option value="191">Tuxer Alpen</option>
+	<option value="189">Utah, USA</option>
+</optgrp>
+

@@ -1,0 +1,198 @@
+<?php $cache = array (
+  'image' => 
+  array (
+    'titre_url' => 'paysages',
+    'categorie' => 'Paysages',
+    'id_categorie' => '1',
+    'image' => '183148645463db8469795a4947753971.jpeg',
+    'titre' => 'Paysages des Bauges',
+    'description' => 'Retrouvez la news correspondante ici : &lt;lien url=&quot;https://revedemontagne.fr/partez-a-la-decouverte-du-massif-des-bauges-z375.html&quot;&gt;https://revedemontagne.fr/partez-a-la-decouverte-du-massif-des-bauges-z375.html&lt;/lien&gt;',
+    'album' => 1.0,
+  ),
+  'rando1' => 
+  array (
+    'rando1' => 'Liste des flux XML de R&ecirc;vedeMontagne',
+    'id1' => '180',
+    'url_rando1' => 'liste-des-flux-xml-de-revedemontagne',
+  ),
+  'rando2' => 
+  array (
+    'rando2' => 'Plan du site - R&ecirc;vedeMontagne',
+    'id2' => '179',
+    'url_rando2' => 'plan-du-site-revedemontagne',
+  ),
+  'rando3' => 
+  array (
+    'rando3' => 'Comment bien s&#039;&eacute;quiper pour partir randonner',
+    'id3' => '178',
+    'url_rando3' => 'comment-bien-sequiper-pour-partir-randonner',
+  ),
+  'rando4' => 
+  array (
+    'rando4' => 'R&egrave;glement de bonne conduite sur le site R&ecirc;vedeMontagne ',
+    'id4' => '174',
+    'url_rando4' => 'reglement-de-bonne-conduite-sur-le-site-revedemontagne',
+  ),
+  'rando5' => 
+  array (
+    'rando5' => 'La base de donn&eacute;es Serac : Accidentologie',
+    'id5' => '165',
+    'url_rando5' => 'la-base-de-donnees-serac-accidentologie',
+  ),
+  'toposki1' => 
+  array (
+    'toposki1' => 'Aiguille de la Berarde, Couloir S de l&#039;aiguille de la b&eacute;rarde',
+    'idts1' => '114',
+    'urlts1' => 'topo-aiguille-de-la-berarde-couloir-s-de-laiguille-de-la-berarde',
+  ),
+  'toposki2' => 
+  array (
+    'toposki2' => 'Combe Charbonni&egrave;re, Par le Vallon des Fauges',
+    'idts2' => '84',
+    'urlts2' => 'topo-combe-charbonniere-par-le-vallon-des-fauges',
+  ),
+  'toposki3' => 
+  array (
+    'toposki3' => 'Col de Furfande, versant Nord',
+    'idts3' => '60',
+    'urlts3' => 'topo-col-de-furfande-versant-nord',
+  ),
+  'toposki4' => 
+  array (
+    'toposki4' => 'Pie Ferree (Dome de Glandasse), depuis Archiane',
+    'idts4' => '49',
+    'urlts4' => 'topo-pie-ferree-dome-de-glandasse-depuis-archiane',
+  ),
+  'toposki5' => 
+  array (
+    'toposki5' => 'Petit Som, depuis le pont des allemands',
+    'idts5' => '48',
+    'urlts5' => 'topo-petit-som-depuis-le-pont-des-allemands',
+  ),
+  'toposki6' => 
+  array (
+    'toposki6' => 'Grand Som, depuis le pont des allemands',
+    'idts6' => '47',
+    'urlts6' => 'topo-grand-som-depuis-le-pont-des-allemands',
+  ),
+  'toporando1' => 
+  array (
+    'toporando1' => 'Pas de Tour&eacute;is, Le Pas de Tour&eacute;is en passant par le Lac Verdet',
+    'idtr1' => '128',
+    'urltr1' => 'topo-pas-de-toureis-le-pas-de-toureis-en-passant-par-le-lac-verdet',
+  ),
+  'toporando2' => 
+  array (
+    'toporando2' => 'Lac Verdet, En all&eacute;e / retour depuis la route de Restefond',
+    'idtr2' => '127',
+    'urltr2' => 'topo-lac-verdet-en-allee-retour-depuis-la-route-de-restefond',
+  ),
+  'toporando3' => 
+  array (
+    'toporando3' => 'Serre du Buis, Tour de la montagne du Serre du Buis depuis le Pas du Pont ',
+    'idtr3' => '126',
+    'urltr3' => 'topo-serre-du-buis-tour-de-la-montagne-du-serre-du-buis-depuis-le-pas-du-pont',
+  ),
+  'toporando4' => 
+  array (
+    'toporando4' => 'Lac du Lauzanier, Randonn&eacute;e en all&eacute;e / retour au Lac',
+    'idtr4' => '124',
+    'urltr4' => 'topo-lac-du-lauzanier-randonnee-en-allee-retour-au-lac',
+  ),
+  'toporando5' => 
+  array (
+    'toporando5' => 'La Raye, Depuis Ourches par la croix de B&eacute;sot',
+    'idtr5' => '122',
+    'urltr5' => 'topo-la-raye-depuis-ourches-par-la-croix-de-besot',
+  ),
+  'toporando6' => 
+  array (
+    'toporando6' => 'Saint Pancrace, Tour de la montagne',
+    'idtr6' => '121',
+    'urltr6' => 'topo-saint-pancrace-tour-de-la-montagne',
+  ),
+  'news1' => 
+  array (
+    'news1' => 'Partez &agrave; la d&eacute;couverte du massif des Bauges',
+    'idn1' => '375',
+    'urln1' => 'partez-a-la-decouverte-du-massif-des-bauges',
+    'daten1' => '02/02',
+  ),
+  'news2' => 
+  array (
+    'news2' => 'Dysfonctionnement dans la gestion des photos sur R&ecirc;vedeMontagne',
+    'idn2' => '376',
+    'urln2' => 'dysfonctionnement-dans-la-gestion-des-photos-sur-revedemontagne',
+    'daten2' => '02/02',
+  ),
+  'news3' => 
+  array (
+    'news3' => 'Int&eacute;gration des fonds de carte IGN sur tous le site',
+    'idn3' => '372',
+    'urln3' => 'integration-des-fonds-de-carte-ign-sur-tous-le-site',
+    'daten3' => '09/08',
+  ),
+  'news4' => 
+  array (
+    'news4' => '38e concours de Sculpture sur Neige &agrave; Valloire',
+    'idn4' => '370',
+    'urln4' => '38e-concours-de-sculpture-sur-neige-a-valloire',
+    'daten4' => '12/01',
+  ),
+  'news5' => 
+  array (
+    'news5' => '#Important La Barre et le D&ocirc;me des &Eacute;crins sont d&eacute;conseill&eacute;s !',
+    'idn5' => '367',
+    'urln5' => 'important-la-barre-et-le-dome-des-ecrins-sont-deconseilles',
+    'daten5' => '30/07',
+  ),
+  'news6' => 
+  array (
+    'news6' => 'Google - laissez-nous vos avis',
+    'idn6' => '366',
+    'urln6' => 'google-laissez-nous-vos-avis',
+    'daten6' => '17/07',
+  ),
+  'sortie1' => 
+  array (
+    'sortie1' => 'Serre du Buis, Tour de la montagne du Serre du Buis depuis le Pas du Pont ',
+    'sactivites1' => 'Randonn&eacute;es p&eacute;destre',
+    'surl1' => 'serre-du-buis-tour-de-la-montagne-du-serre-du-buis-depuis-le-pas-du-pont-sortie-n132.html',
+    'date1' => '29-08-2021',
+  ),
+  'sortie2' => 
+  array (
+    'sortie2' => 'Pas de Tour&eacute;is, Le Pas de Tour&eacute;is en passant par le Lac Verdet',
+    'sactivites2' => 'Randonn&eacute;es p&eacute;destre',
+    'surl2' => 'pas-de-toureis-le-pas-de-toureis-en-passant-par-le-lac-verdet-sortie-n135.html',
+    'date2' => '14-08-2021',
+  ),
+  'sortie3' => 
+  array (
+    'sortie3' => 'Lac Verdet, En all&eacute;e / retour depuis la route de Restefond',
+    'sactivites3' => 'Randonn&eacute;es p&eacute;destre',
+    'surl3' => 'lac-verdet-en-allee-retour-depuis-la-route-de-restefond-sortie-n134.html',
+    'date3' => '14-08-2021',
+  ),
+  'sortie4' => 
+  array (
+    'sortie4' => 'Lac du Lauzanier, Randonn&eacute;e en all&eacute;e / retour au Lac',
+    'sactivites4' => 'Randonn&eacute;es p&eacute;destre',
+    'surl4' => 'lac-du-lauzanier-randonnee-en-allee-retour-au-lac-sortie-n133.html',
+    'date4' => '10-08-2021',
+  ),
+  'sortie5' => 
+  array (
+    'sortie5' => 'La Raye, Depuis Ourches par la croix de B&eacute;sot',
+    'sactivites5' => 'Randonn&eacute;es p&eacute;destre',
+    'surl5' => 'la-raye-depuis-ourches-par-la-croix-de-besot-sortie-n131.html',
+    'date5' => '19-04-2021',
+  ),
+  'sortie6' => 
+  array (
+    'sortie6' => 'Saint Pancrace, Tour de la montagne',
+    'sactivites6' => 'Randonn&eacute;es p&eacute;destre',
+    'surl6' => 'saint-pancrace-tour-de-la-montagne-sortie-n130.html',
+    'date6' => '28-01-2021',
+  ),
+);?>

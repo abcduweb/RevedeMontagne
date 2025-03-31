@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>test</name>
+  <description><![CDATA[juste un test]]></description>
+  <NetworkLink>
+    <name>test</name>
+    <Link>
+      <href>http://maps.google.fr/maps/ms?ie=UTF8&amp;hl=fr&amp;oe=UTF8&amp;msa=0&amp;msid=110068564345614099592.00044ed2f8f579126b73f&amp;output=kml</href>
+    </Link>
+  </NetworkLink>
+</Document>
+</kml>
