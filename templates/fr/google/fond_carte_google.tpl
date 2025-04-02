@@ -1,16 +1,15 @@
-<!--- https://geoservices.ign.fr/documentation/services/utilisation-web/extension-pour-leaflet --->
-
 <include file="../headers/header_common_head.tpl" />
-
-
-	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
-	<link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.css" />
-    <link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.Default.css" />
-	<!-- CSS -->
-    <style>
-        body{margin:0}
-        #map{height: 100vh;}
-    </style>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
+		<link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.css" />
+        <link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.Default.css" />
+		<!-- CSS -->
+        <style>
+            body{margin:0}
+            #map{height: 100vh;}
+        </style>
 <include file="../headers/header_common_body.tpl" />
 
 <div class="arbre">Vous &#234;tes ici : 
@@ -43,11 +42,6 @@
 <!-- Fichiers Javascript -->
 <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js" integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og==" crossorigin=""></script>
 <script type='text/javascript' src='https://unpkg.com/leaflet.markercluster@1.3.0/dist/leaflet.markercluster.js'></script>
-
-<!-- Extension Géoportail pour Leaflet -->
-<script src="https://ignf.github.io/geoportal-extensions/leaflet-latest/dist/GpPluginLeaflet.js"> </script>
-<link rel="stylesheet" href="https://ignf.github.io/geoportal-extensions/leaflet-latest/dist/GpPluginLeaflet.css" />
-
 <script>
     
 	// On initialise la carte
@@ -59,23 +53,23 @@
 	macarte = L.map('map').setView([48.852969, 2.349903], 13);
 	markerClusters = L.markerClusterGroup();
 	
-    function layerUrl(key, layer) {
+	function layerUrl(key, layer) {
         return "https://wxs.ign.fr/" + key
             + "/geoportail/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&"
             + "LAYER=" + layer + "&STYLE=normal&TILEMATRIXSET=PM&"
             + "TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&FORMAT=image%2Fjpeg";
     }
 	
+
             
     // On charge les "tuiles"
-	
-	L.tileLayer(
+L.tileLayer(
         "https://data.geopf.fr/wmts?" +
         "&REQUEST=GetTile&SERVICE=WMTS&VERSION=1.0.0" +
         "&STYLE=normal" +
         "&TILEMATRIXSET=PM" +
         "&FORMAT=image/jpeg"+
-        "&LAYER=OI.OrthoimageCoverage"+
+        "&LAYER=ORTHOIMAGERY.ORTHOPHOTOS"+
 	"&TILEMATRIX={z}" +
         "&TILEROW={y}" +
         "&TILECOL={x}", 
@@ -86,9 +80,6 @@
          layers: [layer]
 		}
 	).addTo(macarte);
-	
-	
-
 
     let xmlhttp = new XMLHttpRequest();
 
@@ -134,13 +125,10 @@
 			
     }
 	
-    xmlhttp.open("GET", "https://revedemontagne.fr/google/carte_gene.php");
+    xmlhttp.open("GET", "{DOMAINE}/google/carte_gene.php");
 	xmlhttp.send(null);
 
 </script>
-		
-		
-
 <include file="../footer.tpl" />
 
 
