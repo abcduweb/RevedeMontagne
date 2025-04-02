@@ -1,8 +1,8 @@
-/*###############################################################
-Réalisation SAS ABCduWeb
-Date de création : 04/04/2024
-Date de mise à jour : 31/03/2025
-Contact : contact@abcduweb.fr
+/*############################################################### <br />
+Réalisation SAS ABCduWeb <br />
+Date de création : 04/04/2024 <br />
+Date de mise à jour : 31/03/2025 <br />
+Contact : contact@abcduweb.fr <br />
 #################################################################*/
 
 Ce Github permet de regrouper l'intégralité des fichiers qui permettent de faire fonctionner le site internet https://revedemontagne.fr
