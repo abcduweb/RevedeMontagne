@@ -10,6 +10,8 @@ Ce Github permet de regrouper l'intégralité des fichiers qui permettent de fai
 Le dépôt a pour but de faire évoluer le site en faisant appel aux développeur passionné par la montagne.
 
 <h2>Bugs connus</h2>
+<ul><li><a href="https://github.com/abcduweb/RevedeMontagne/issues/1">Bug aléatoire sur le fichier includes/enligne.php aménant une page blanche régulièrement sur le site internet</a></li>
+<li><a href="https://github.com/abcduweb/RevedeMontagne/issues/2">Notice sur le fichier fonctions/zcode.fonction.php</a></li></ul>
 
 Le site internet se présente sous forme de modules :
 - News
